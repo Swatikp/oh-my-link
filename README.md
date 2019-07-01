@@ -31,7 +31,7 @@ This Project's source code files are made available under the Apache License, Ve
 ## Demo
 
 To watch the demo of the project click below:</br></br>
-[![Watch the video](https://raw.githubusercontent.com/Swatikp/oh-my-link/master/images/video-link.jpg)](https://drive.google.com/file/d/1-AwLHhs7yBENS6J1reQvMAU-NPkO_B66/view?usp=drivesdk)
+[![Watch the video](https://raw.githubusercontent.com/Swatikp/oh-my-link/master/images/video-link.png)](https://drive.google.com/file/d/1-AwLHhs7yBENS6J1reQvMAU-NPkO_B66/view?usp=drivesdk)
 
 ### NOTE
 The terms of the license of third-party libraries can be found in a file named LICENSE-3RD-PARTY.md in the project. The following third party library is used for QR code generation purpose:
